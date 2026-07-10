@@ -30,3 +30,6 @@ console.log(student.firstName);
 console.log(student.fullName);
 
 student.fullName = '김철수';
+
+console.log(student.myName());
+console.log(student.fullName);
